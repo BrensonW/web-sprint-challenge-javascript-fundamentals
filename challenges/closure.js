@@ -18,8 +18,9 @@ myFunction();
 
 // Explanation: 
 
-/* Nested Functions can access the variable internal because the variable within the parent function was declared, so this 
+/* Nested Functions can access the variable within the parent scope because the variable was declared, so this 
  actually grants access to it by the child functions.
+ 
 
 /* Task 2: Counter */
 

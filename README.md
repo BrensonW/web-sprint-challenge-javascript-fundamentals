@@ -31,7 +31,7 @@ Both .forEach and .map go through all the indexs that are in an array.  The diff
 
 2. Explain the difference between a callback and a higher order function.
 
-A Higher Order Function passes a function whether it's into or out, while a callback function takes a function as an argument.
+A Higher Order Function passes a function whether it's into or out, while a callback function is the function that is taken into the other function.
 
 
 3. What is closure?
